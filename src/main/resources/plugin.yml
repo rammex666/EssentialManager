@@ -1,0 +1,7 @@
+name: EssentialManager
+version: '1.0'
+main: fr.rammex.essentialManager.EssentialManager
+api-version: '1.20'
+commands:
+  essentialmanager:
+    permission: essentialmanager.use
